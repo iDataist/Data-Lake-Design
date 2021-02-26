@@ -9,5 +9,5 @@ Last week, there was a surge in data, during the nightly ETL process, the databa
 
 ## Project Deliverables
 - [Data Lake Solution Architecture Diagram](https://github.com/iDataist/Data-Lake-Design/blob/main/data_lake_architecture_diagram/DataLakeSolutionArchitectureDiagram.png)
-- [Data Lake Architecture Design Template](https://github.com/iDataist/Data-Lake-Design/blob/main/data_lake_architecture_documentation/DataLakeArchitectureDesign.pdf)
+- [Data Lake Architecture Design](https://github.com/iDataist/Data-Lake-Design/blob/main/data_lake_architecture_documentation/DataLakeArchitectureDesign.pdf)
 - [A presentation targeted for CXO level audience showcasing Data Lake Value Proposition](https://github.com/iDataist/Data-Lake-Design/blob/main/presentation/DataLakeExecutivePresentation.pdf)
